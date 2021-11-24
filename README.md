@@ -1,6 +1,6 @@
 # Hospital Management System
 
-Aayush Kumar Verma - COLUMBIA UNIVERSITY
+Aayush Kumar Verma - COLUMBIA UNIVERSITY //
 Nihar Maheshwari - COLUMBIA UNIVERSITY
 
 Course Name - Introduction to Databases
